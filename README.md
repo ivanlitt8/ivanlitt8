@@ -19,7 +19,7 @@ ___
 
 ## Something else...
 
-- 🔭 I’m currently working on my portfolio personal 
+- 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning React / Node.js 
 - 📫 How to reach me: ivanlitt8@gmail.com 
 - ⚡ Fun fact: Special interest in Web 3.0 and Smart Contracts
