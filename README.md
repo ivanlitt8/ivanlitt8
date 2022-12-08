@@ -13,8 +13,9 @@ ____
 
 ## About me:
 
-Actualmente estudiante de sistemas, 
-en estos repositorios podras ver algunos de los proyectos en los que estoy trabajando.
+I study systems at the National University of La Plata and at the same time I find myself learning technologies aligned to the role of Full Stack Developer.
+
+In these repositories you can see some of the projects I'm currently working on.
 ___
 
 ## Something else...
