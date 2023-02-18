@@ -13,7 +13,8 @@ ____
 
 ## About me:
 
-I study systems at the National University of La Plata and at the same time I find myself learning technologies aligned to the role of Full Stack Developer.
+I study systems at the National University of La Plata and at the same time I am learning technologies aligned to the role of Full Stack Developer.
+I am very interested in web 3, ecommerce and the implementation of AI to streamline processes.
 
 In these repositories you can see some of the projects I'm currently working on.
 ___
